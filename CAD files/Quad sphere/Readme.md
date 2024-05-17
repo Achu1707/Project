@@ -1,2 +1,2 @@
-## Developed a 3d Model of Quad sphere for fluid region in Solidworks. Quad sphere consists of a cube surrounded by curved parts on all its faces. Results obtained by using Quad sphere with Quad mesh with Curvature correction (Dark blue curve), are in good agreement with the experiment
-## This work was part of my Research project: Numerical Reproduction of Experimental Fluid Sloshing under Microgravity Conditions using STAR-CCM+ : 
+## Developed a 3d Model of Quad sphere for fluid region in Solidworks. Quad sphere consists of a cube surrounded by curved parts on all its faces. Results obtained by using Quad sphere with Quad mesh with Curvature correction (Dark blue curve), are in good agreement with the experiment than other types
+## This work was part of my Research project: Numerical Reproduction of Experimental Fluid Sloshing under Microgravity Conditions using STAR-CCM+ : https://shorturl.at/BCKOT
