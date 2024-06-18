@@ -2238,7 +2238,7 @@ EN-IN;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  <v:imagedata src="https://github.com/Achu1707/Project/blob/main/Simulation%20of%20flow%20through%20a%20pipe/Images/image001.png">
  !img[0](https://github.com/Achu1707/Project/blob/main/Simulation%20of%20flow%20through%20a%20pipe/Images/image001.png)
 </v:shape><![endif]--><![if !vml]><img width=161 height=57
-src="project%20new1_files/image001.png"
+src="https://github.com/Achu1707/Project/blob/main/Simulation%20of%20flow%20through%20a%20pipe/Images/image001.png"
 alt="A black text on a white background&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_48"><![endif]></span><span style='font-size:12.0pt;
 font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
