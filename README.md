@@ -9,6 +9,6 @@
 ## <ins>Mini projects</ins>
 ## 5) Simulation of a backward-facing step in OpenFOAM: https://shorturl.at/almP5
 ## 6) Simulation of flow through a pipe in OpenFOAM: https://shorturl.at/RS1Di
-## 7) Solving the steady and unsteady 2D heat conduction using MATLAB: https://skill-lync.com/student-projects/solving-the-steady-and-unsteady-2d-heat-conduction-problem-70-42901
+## 7) Solving the steady and unsteady 2D heat conduction using MATLAB: https://shorturl.at/31XQ1
 ## 8) Simulation of a 1D Super-sonic nozzle flow simulation using the McCormack Method using MATLAB: https://shorturl.at/quzST
 
