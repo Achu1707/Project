@@ -5,7 +5,7 @@
 ## 2) Research Project at TU Dresden: Numerical Reproduction of Experimental Fluid Sloshing under Microgravity Conditions using STAR-CCM+: https://t.ly/enR5L
 
 ## <ins>Mini projects</ins>
-## 3) Simulation of flow through a pipe in OpenFOAM: https://t.ly/qMNk9
+## 3) Simulation of flow through a pipe in OpenFOAM: https://rb.gy/o3jqei
 ## 4) Simulation of a backward-facing step in OpenFOAM: https://t.ly/VkBwB
 ## 5) Simulation of a 1D Super-sonic nozzle flow simulation using the McCormack Method using MATLAB: https://rb.gy/ol3f0y
 ## 6) Solving the steady and unsteady 2D heat conduction using MATLAB: https://t.ly/HXVbI
