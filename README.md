@@ -2,8 +2,8 @@
 
 ## 1) Click the above folder (CAD files) to view the pics and CAD (Computer Aided Design) models developed during Internships/Projects
 
-## 2) Research Project at TU Dresden: Numerical Reproduction of Experimental Fluid Sloshing under Microgravity Conditions using STAR-CCM+: https://shorturl.at/BCKOT
-## 3) Bachelor thesis: Design and Aerodynamic simulation of Blended wing airplane (Conceptual Model) developed using NACA SC (2)-0714 airfoil: https://shorturl.at/czNP1
+## 2) Research Project at TU Dresden: Numerical Reproduction of Experimental Fluid Sloshing under Microgravity Conditions using STAR-CCM+: https://t.ly/enR5L
+## 3) Bachelor thesis: Design and Aerodynamic simulation of Blended wing airplane (Conceptual Model) developed using NACA SC (2)-0714 airfoil: https://t.ly/ZpTTQ
 ## 4) Design and fabrication of mobile app-controlled floor sweeper: https://doi.org/10.1016/j.matpr.2021.09.557
 
 ## <ins>Mini projects</ins>
