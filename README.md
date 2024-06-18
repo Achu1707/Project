@@ -7,7 +7,8 @@
 ## 4) Design and fabrication of mobile app-controlled floor sweeper: https://doi.org/10.1016/j.matpr.2021.09.557
 
 ## <ins>Mini projects</ins>
-## 5) Solving the steady and unsteady 2D heat conduction using MATLAB: https://skill-lync.com/student-projects/solving-the-steady-and-unsteady-2d-heat-conduction-problem-70-42901
-## 6) Simulation of a 1D Super-sonic nozzle flow simulation using the McCormack Method using MATLAB: https://shorturl.at/quzST
-## 7) Simulation of a backward-facing step in OpenFOAM: https://shorturl.at/almP5
-## 8) Simulation of flow through a pipe in OpenFOAM: https://drive.google.com/file/d/1SVq2xtz4YgGHPQEjsWJDErIKvnQlgFIw/view?usp=sharing
+## 5) Simulation of a backward-facing step in OpenFOAM: https://shorturl.at/almP5
+## 6) Simulation of flow through a pipe in OpenFOAM: https://shorturl.at/RS1Di
+## 7) Solving the steady and unsteady 2D heat conduction using MATLAB: https://skill-lync.com/student-projects/solving-the-steady-and-unsteady-2d-heat-conduction-problem-70-42901
+## 8) Simulation of a 1D Super-sonic nozzle flow simulation using the McCormack Method using MATLAB: https://shorturl.at/quzST
+
