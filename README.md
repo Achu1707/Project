@@ -3,6 +3,7 @@
 ## 1) Click the above folder (CAD files) to view the pics and CAD (Computer Aided Design) models developed during Internships/Projects
 
 ## 2) Research Project at TU Dresden: Numerical Reproduction of Experimental Fluid Sloshing under Microgravity Conditions using STAR-CCM+: https://t.ly/enR5L
+## Simulation video sample: https://t.ly/Hd4nU
 
 ## <ins>Mini projects</ins>
 ## 3) Simulation of flow through a pipe in OpenFOAM: https://rb.gy/o3jqei
